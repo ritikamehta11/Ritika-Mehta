@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    color: coral;
+}
+h3, h4{
+    color: rgb(214, 106, 66);
+}
+img{
+    width: 100px;
+    background-clip:content-box;
+}
